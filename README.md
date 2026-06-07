@@ -1,4 +1,6 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
+# Name : monisha.L
+# Register name : 2305001019
 
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
@@ -58,7 +60,8 @@ int main() {
 
 
 
-## Output:
+## Output: <img width="669" height="563" alt="image" src="https://github.com/user-attachments/assets/c6939840-3680-419b-ae89-59beb9a0e3b4" />
+
 
 
 ## Result:
